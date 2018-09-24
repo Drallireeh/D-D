@@ -1,0 +1,43 @@
+
+NARZUGON
+[ Narzugon ]
+Fiélon (diable) de taille M, loyal mauvais
+Classe d'armure 20 (harnois, bouclier)
+Points de vie 112 (15d8 + 45)
+Vitesse 9 m
+FOR
+20 (+5)  DEX
+10 (+0)  CON
+17 (+3)  INT
+16 (+3)  SAG
+14 (+2)  CHA
+19 (+4)
+Jets de sauvegarde Dex +5, Con +8, Cha +9
+Compétences Perception +7
+Résistances aux dégâts acide, froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent
+Immunités aux dégâts feu, poison
+Immunités aux conditions charmé, effrayé, empoisonné
+Sens vision dans le noir à 36 m, Perception passive 17
+Langues Commun, Infernal, télépathie à 36 m
+Puissance 13 (10000 PX)
+Sens diaboliques. Le narzugon a l'avantage aux jets de Sagesse (Perception) effectués pour repérer des créatures d'alignement bon.
+
+Harnachement infernal. Le narzugon est équipé d'éperons qui font partis d'un harnachement infernal lui permettant d'invoquer son compagnon destrier noir.
+
+Résistance à la magie. Le narzugon a l'avantage à ses jets de sauvegarde contre les sorts et les effets magiques.
+
+ACTIONS
+Attaques multiples. Le narzugon utilise son Commandement infernal ou son Commandement terrifiant. Il effectue également trois attaques de lance d'arçon des feux de l'enfer.
+
+Lance d'arçon des feux de l'enfer. Attaque au corps à corps avec une arme : +10 au toucher, allonge 3 m, une cible. Touché : 11 (1d12 + 5) dégâts perforants + 16 (3d10) dégâts de feu. Si ces dégâts tuent une créature, l'âme de la créature surgit, au bout de 1d4 heures, de la rivière Styx d'Avernus sous la forme d'un lémure. Si la créature n'est pas ressuscitée avant que cela ne se produise, le seul moyen de ramener la créature à la vie est de lancer un sort de souhait ou de tuer le lémure puis de lancer le sort résurrection suprême sur la dépouille originelle de la créature.
+
+Commandement infernal. Chaque allié présent dans un rayon de 18 mètres autour du narzugon ne peut pas être charmé ni effrayé jusqu'à la fin du prochain tour du narzugon.
+
+Commandement terrifiant. Chaque créature qui n'est pas un fiélon, se trouvant dans un rayon de 18 mètres autour du narzugon, et qui peut l'entendre doit réussir un jet de sauvegarde de Charisme DD 17 sous peine d'être effrayée pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant un terme à l'effet qui l'affecte en cas de réussite. Une créature qui réussit son jet de sauvegarde est immunisée au Commandement terrifiant de ce narzugon pour les 24 prochaines heures.
+
+Guérison (7/jours). Le narzugon, ou une créature qu'il touche, récupère jusqu'à 100 points de vie.
+
+Les paladins qui concluent des pactes avec des diables, et troquent leur sens de l'honneur pour une vie après la mort, sont particulièrement recherchés par les archidiables des Neufs Enfers qui désirent que de véritables champions mènent leurs légions à la guerre. Ces narzugons, équipés de lance d'arçon des feux de l'enfer et chevauchant des destriers noirs telles des versions horrifiques et perverties des chevaliers errants, parcourent les Neufs Enfers et les autres plans pour y exécuter la volonté de leurs maîtres.
+Mordenkainen´s Tome of Foes D&D 5 › Monstres
+
+image

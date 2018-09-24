@@ -1,0 +1,5 @@
+ARMURE +3
+[ Armor +3 ]
+Armure (lourde), légendaire (+3)
+Lorsque vous portez cette armure, vous obtenez un bonus à la CA. Le bonus dépend de la rareté. 
+Dungeon Master´s Guide (SRD) D&D 5 › Objets magiques
