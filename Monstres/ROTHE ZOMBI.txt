@@ -1,0 +1,27 @@
+
+ROTHÉ ZOMBI
+Mort-vivant de taille G, neutre mauvais
+Classe d'armure 8
+Points de vie 22 (3d8 + 9)
+Vitesse 9 m
+FOR
+17 (+3)  DEX
+6 (-2)  CON
+16 (+3)  INT
+2 (-4)  SAG
+6 (-2)  CHA
+6 (-2)
+Jets de sauvegarde Sag +0
+Immunités aux dégâts poison
+Immunités aux conditions empoisonné
+Sens vision dans le noir à 18 m, Perception passive 8
+Langues -
+Puissance 1/2 (100 PX)
+Charge. Si le rothé zombi se déplace d'au moins 6 mètres en ligne droite vers une cible, puis la touche lors d'une attaque avec son coup de tête dans le même tour, la cible subit 5 (2d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 sous peine d'être jetée à terre.
+
+Détermination de mort-vivant. Si des dégâts réduisent le rothé zombi à 0 point de vie, celui-ci doit effectuer un jet de sauvegarde de Constitution DD 5 + les dégâts subis, à moins que ce ne soient des dégâts radiants ou un coup critique. En cas de réussite, le rothé zombi tombe à 1 point de vie à la place.
+
+ACTIONS
+Coup de tête. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (2d4 + 3) dégâts contondants.
+
+Adventurers League D&D 5 › Monstres
